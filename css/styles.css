@@ -1,0 +1,21 @@
+nav{
+	background-color: rgb(0,128,128);
+	border-bottom: ridge;
+}
+.row-body{
+	border: ridge;
+	margin-top: 20px;
+	background-color: white;
+}
+body{
+	background-color: rgb(176,224,230);
+}
+header{
+	border-bottom: ridge;
+	height: 400px;
+}
+footer{
+	background-color: rgb(176,196,222);
+	margin-top: 20px;
+	border-top: ridge;
+}
